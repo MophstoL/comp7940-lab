@@ -1,3 +1,8 @@
-configparser
 python-telegram-bot==22.5
 urllib3==2.6.2
+requests
+aiohttp
+certifi
+charset-normalizer
+idna
+typing-extensions
